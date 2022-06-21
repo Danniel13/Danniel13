@@ -17,6 +17,6 @@
 
 # Skills <img src="see.gif" alt="see" width="80"/> 
 
-<h4><img src="Progress.JPG" alt="progress" width="900"/>
+<h4><img src="Progress.JPG" alt="progress" width="1000" height="85"/>
 
 #

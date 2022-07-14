@@ -1,7 +1,9 @@
 #
 #
 # <img src="Hi.gif" alt="Hi" width="100"/>Hello, I'm Daniel González.
+
 #
+
 <h4><img src="Col.gif" alt="Col" width="40"/>I'm from Colombia.</h4>
 <br>
 <h4><img src="grad.gif" alt="Col" width="40"/>I'm an IT technologist. </h4>
@@ -15,8 +17,17 @@
 
 
 
-# Skills <img src="see.gif" alt="see" width="80"/> 
+# Skills <img src="gt.gif" alt="see" width="80"/> 
 
-<h4><img src="Progress.JPG" alt="progress" width="1000" height="85"/>
+<!-- 
+<h4><img src="Progress.JPG" alt="progress" width="1000" height="85"/> -->
 
 #
+
+
+
+![](https://progress-bar.dev/45/?title=Python) 
+![](https://progress-bar.dev/35/?title=Html) 
+![](https://progress-bar.dev/32/?title=VBA)
+
+![](https://progress-bar.dev/15/?title=SQL) ![](https://progress-bar.dev/15/?title=Java) 

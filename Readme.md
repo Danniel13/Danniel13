@@ -30,4 +30,4 @@
 ![](https://progress-bar.dev/35/?title=Html) 
 ![](https://progress-bar.dev/32/?title=VBA)
 
-![](https://progress-bar.dev/15/?title=SQL) ![](https://progress-bar.dev/15/?title=Java) 
+![](https://progress-bar.dev/30/?title=SQL) ![](https://progress-bar.dev/30/?title=Java) 

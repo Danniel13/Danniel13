@@ -12,7 +12,7 @@
 <h4><img src="developer.gif" alt="Col" width="40"/> I'm studyng Software Developing. </h4>
 <br>
 
-<h4><img src="trip.gif" alt="Col" width="40"/>  I like listening music, learning about English, new technologies and traveling to new places. </h4>
+<h4><img src="trip.gif" alt="Col" width="40"/>  I like listening to music, learning about English, new technologies and traveling to new places. </h4>
 <br>
 
 

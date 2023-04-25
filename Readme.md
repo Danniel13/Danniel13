@@ -6,7 +6,7 @@
 
 <h4><img src="Col.gif" alt="Col" width="40"/>I'm from Colombia.</h4>
 <br>
-<h4><img src="grad.gif" alt="Col" width="40"/>I'm an IT technologist. </h4>
+<h4><img src="grad.gif" alt="Col" width="40"/>I'm an IT Profressional. </h4>
 <br>
 
 <h4><img src="developer.gif" alt="Col" width="40"/> I'm studyng Software Developing. </h4>

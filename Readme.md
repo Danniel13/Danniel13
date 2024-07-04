@@ -15,19 +15,20 @@
 <h4><img src="trip.gif" alt="Col" width="40"/>  I like listening to music, learning about English, new technologies and traveling to new places. </h4>
 <br>
 
-
-
-# Skills <img src="gt.gif" alt="see" width="80"/> 
-
-<!-- 
-<h4><img src="Progress.JPG" alt="progress" width="1000" height="85"/> -->
-
-#
-
-
-
-![](https://progress-bar.dev/45/?title=Python) 
-![](https://progress-bar.dev/35/?title=Html) 
-![](https://progress-bar.dev/32/?title=VBA)
-
-![](https://progress-bar.dev/30/?title=SQL) ![](https://progress-bar.dev/30/?title=Java) 
+  
+  <!---
+  # Skills <img src="gt.gif" alt="see" width="80"/> 
+  
+ 
+  <h4><img src="Progress.JPG" alt="progress" width="1000" height="85"/> -->
+  
+  
+  
+  
+  <!---
+  ![](https://progress-bar.dev/45/?title=Python) 
+  ![](https://progress-bar.dev/35/?title=Html) 
+  ![](https://progress-bar.dev/32/?title=VBA)
+  
+  ![](https://progress-bar.dev/30/?title=SQL) ![](https://progress-bar.dev/30/?title=Java) 
+  

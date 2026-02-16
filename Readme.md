@@ -6,7 +6,7 @@
 
 <h4><img src="Col.gif" alt="Col" width="40"/>I'm from Colombia.</h4>
 <br>
-<h4><img src="grad.gif" alt="Col" width="40"/>I'm an IT Professional. </h4>
+<h4><img src="grad.gif" alt="Col" width="40"/>IT Professional. </h4>
 <br>
 
 <!-- <h4><img src="developer.gif" alt="Col" width="40"/> I'm studyng Software Developing. </h4> -->
@@ -31,4 +31,5 @@
   
   ![](https://progress-bar.dev/30/?title=SQL) ![](https://progress-bar.dev/30/?title=Java) 
   
+
 
